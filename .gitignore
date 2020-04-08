@@ -2,7 +2,4 @@
 envs/
 **/*.bak
 .ipynb_checkpoints/
-
-tracker_benchmark-master/trackers/*
-tracker_benchmark-master/results/*
 **/__MACOSX/
