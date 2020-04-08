@@ -1,0 +1,3 @@
+*.png
+envs/
+.ipynb_checkpoints/
